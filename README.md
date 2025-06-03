@@ -5,3 +5,7 @@
 https://github.com/rdp/screen-capture-recorder-to-video-windows-free
 
 https://github.com/rdp/virtual-audio-capture-grabber-device
+
+### Credits:
+
+https://github.com/rdp
